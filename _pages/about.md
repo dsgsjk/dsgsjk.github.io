@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-I am a senior undergraduate student from the Department of Computer Science, The University of Hong Kong, where I am very fortunate to work with [Prof. Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/). I spent a wonderful summer in 2023 doing research internship at University of Illinois Urbana-Champaign, advised by [Chandra Chekuri](https://chekuri.cs.illinois.edu/).
+I am a senior undergraduate student from the Department of Computer Science, The University of Hong Kong, where I am very fortunate to work with [Prof. Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/). I spent a wonderful summer in 2023 doing research internship at University of Illinois Urbana-Champaign, advised by [Prof. Chandra Chekuri](https://chekuri.cs.illinois.edu/).
 
 
 
