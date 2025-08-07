@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Junkai Song"
   avatar           : "profile.png"
-  bio              : "Senior at HKU"
-  location         : "Hong Kong"
+  bio              : "PhD student at UPenn"
+  location         : "Philadelphia, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "dsgsjk@connect.hku.hk"
+  email            : "junkais@seas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
