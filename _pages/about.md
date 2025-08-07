@@ -9,12 +9,4 @@ redirect_from:
 
 ---
 
-I am a senior undergraduate student from the Department of Computer Science, The University of Hong Kong, where I am very fortunate to work with [Prof. Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/). I spent a wonderful summer in 2023 doing research internship at The University of Illinois Urbana-Champaign, advised by [Prof. Chandra Chekuri](https://chekuri.cs.illinois.edu/).
-
-
-
-I have a broad interest in Theoretical Computer Science. I am particularly interested in
-
-- design and analysis of algorithms
-- online and approximation algorithms
-- discrete and combinatorial optimization
+I am a first year Computer Science PhD student at the University of Pennsylvania, where I am extremely fortunate to be advised by [Sanjeev Khanna](https://www.cis.upenn.edu/~sanjeev/) and [Erik Waingarten](https://sites.google.com/site/erikwaing/home). My research interests lie in the design and analysis of algorithms. Previously, I completed my bachelor’s degree in computer science at The University of Hong Kong. As an undergraduate, I was fortunate to be mentored by [Chandra Chekuri](https://chekuri.cs.illinois.edu/) and [Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/).
