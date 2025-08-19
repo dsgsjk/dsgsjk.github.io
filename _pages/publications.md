@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-*Author names are in alphabetic order.*
-
 - **[On the Parallel Complexity of Finding a Matroid Basis](https://arxiv.org/abs/2507.08194)**.<br>Sanjeev Khanna, Aaron Putterman, Junkai Song<br>*In **FOCS 2025***
 
 - **[Contention Resolution for the $\ell$-fold union of a matroid via the correlation gap](/files/l-fold-matroid.pdf)**.<br>Chandra Chekuri, Junkai Song, and Weizhong Zhang<br>*In **SOSA 2024***
